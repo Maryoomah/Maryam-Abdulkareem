@@ -1,4 +1,4 @@
-import Section from "./components/Section";
+import Section from "./components/section";
 import About from "./components/about";
 import { projects } from "./data/projects";
 import Hero from "./components/hero";

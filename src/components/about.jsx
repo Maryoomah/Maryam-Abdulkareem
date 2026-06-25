@@ -1,5 +1,4 @@
-import Section from "./Section";
-
+import Section from "./section";
 export default function About() {
   const skills = [
     "React",

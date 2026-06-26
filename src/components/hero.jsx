@@ -30,7 +30,7 @@ export default function Hero() {
 
       <div className="mt-8 flex flex-col sm:flex-row justify-center gap-4">
         <Button href="#projects" variant="primary">View Projects</Button>
-        <Button href="/resume.pdf" variant="secondary">Download Resume</Button>
+        <Button href="/resume.pdf" variant="secondary">View CV</Button>
       </div>
     </div>
   </div>

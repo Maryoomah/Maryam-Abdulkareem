@@ -10,7 +10,7 @@ export default function Hero() {
   <div className="absolute bottom-10 -left-24 h-72 w-72 rounded-full bg-fuchsia-200/40 blur-3xl" />
 
   <div className="relative flex items-center min-h-[calc(100vh-96px)]">
-    <div data-aos="fade-up" className="max-w-3xl text-center mx-auto">
+    <div data-aos="zoom-in" className="max-w-3xl text-center mx-auto">
       <h2 className="text-purple-700 font-semibold tracking-wide uppercase text-base sm:text-lg">
         Maryam Abdulkareem
       </h2>

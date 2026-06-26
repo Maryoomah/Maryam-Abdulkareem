@@ -12,7 +12,7 @@ export default function Home() {
       {/* ABOUT */}
       <About />
  {/* SERVICES */}
-      <Section
+      <Section data-aos="fade-up" 
         id="services"
         className="bg-purple-50"
         containerClassName="max-w-6xl"
@@ -195,7 +195,7 @@ export default function Home() {
       </Section>
 
       {/* PROJECTS */}
-      <Section
+      <Section data-aos="fade-up"
         id="projects"
         className="bg-white"
         containerClassName="max-w-6xl"
@@ -271,7 +271,7 @@ export default function Home() {
       </Section>
      
       {/* CONTACT */}
-      <Section
+      <Section data-aos="zoom-in" 
         id="contact"
         className="bg-slate-900 text-white"
         containerClassName="max-w-5xl"

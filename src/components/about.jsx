@@ -16,7 +16,7 @@ export default function About() {
   ];
 
   return (
-    <Section id="about" className="bg-slate-50" containerClassName="max-w-7xl">
+    <Section id="about" data-aos="fade-up"  className="bg-slate-50" containerClassName="max-w-7xl">
       <div className="grid gap-12 lg:grid-cols-2 lg:items-start">
         {/* LEFT COLUMN */}
         <div className="relative overflow-hidden rounded-[2rem] border border-white/60 bg-white/80 backdrop-blur-xl p-8 md:p-10 shadow-xl shadow-purple-100/50">

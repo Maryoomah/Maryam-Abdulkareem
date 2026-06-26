@@ -61,9 +61,7 @@ export default function Nav() {
    <div className="md:hidden bg-purple-700/80 backdrop-blur border-b border-white/20">
         {/* Top Bar */}
         <div className="flex items-center justify-between px-5 py-4">
-          <h2 className="text-white font-semibold">
-            MJ
-          </h2>
+      <img src="/images/mj.png" alt="mj's logo" />
 
           <button
             onClick={toggleMenu}

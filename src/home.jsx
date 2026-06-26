@@ -308,7 +308,7 @@ export default function Home() {
             </a>
 
             <a
-              href="https://linkedin.com/in/Maryam-Jenrola-Abdulkareem"
+              href="https://www.linkedin.com/in/maryam-jenrola-abdulkareem-2452ab30b"
               target="_blank"
               rel="noreferrer"
               className="hover:text-white transition"
